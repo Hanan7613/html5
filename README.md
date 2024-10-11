@@ -5,7 +5,7 @@
     <title>New Page</title>
   </head>
   <body>
-    <img src="https://lgu.edu.pk/wp-content/uploads/2024/01/lLAHORE-GARRISON-UNIVERSITY.png 1x" alt="LGU logo" />
+    <img src="https://lgu.edu.pk/wp-content/uploads/2024/01/lLAHORE-GARRISON-UNIVERSITY.png" alt="LGU logo" />
     <ol>
       <li>Web Engg</li>
       <li>DSA</li>
